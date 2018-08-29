@@ -1,0 +1,15 @@
+/home/wyatt/Source/FTPNet/obj/Debug/netcoreapp2.1/FTPNet.csprojAssemblyReference.cache
+/home/wyatt/Source/FTPNet/obj/Debug/netcoreapp2.1/FTPNet.csproj.CoreCompileInputs.cache
+/home/wyatt/Source/FTPNet/obj/Debug/netcoreapp2.1/FTPNet.AssemblyInfoInputs.cache
+/home/wyatt/Source/FTPNet/obj/Debug/netcoreapp2.1/FTPNet.AssemblyInfo.cs
+/home/wyatt/Source/FTPNet/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/home/wyatt/Source/FTPNet/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/home/wyatt/Source/FTPNet/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
+/home/wyatt/Source/FTPNet/bin/Debug/netcoreapp2.1/Mono.Cecil.dll
+/home/wyatt/Source/FTPNet/bin/Debug/netcoreapp2.1/FTPNet.deps.json
+/home/wyatt/Source/FTPNet/bin/Debug/netcoreapp2.1/FTPNet.runtimeconfig.json
+/home/wyatt/Source/FTPNet/bin/Debug/netcoreapp2.1/FTPNet.runtimeconfig.dev.json
+/home/wyatt/Source/FTPNet/bin/Debug/netcoreapp2.1/FTPNet.dll
+/home/wyatt/Source/FTPNet/bin/Debug/netcoreapp2.1/FTPNet.pdb
+/home/wyatt/Source/FTPNet/obj/Debug/netcoreapp2.1/FTPNet.dll
+/home/wyatt/Source/FTPNet/obj/Debug/netcoreapp2.1/FTPNet.pdb
